@@ -1,6 +1,6 @@
 # K Y R I E
 **` A Curious One (Web-Development/UI & UX/Writer)`**
- I am a writer and a web developer interested in crafting the best digital experiences, with a knack for over-the-top customization and storytelling. "[For more information][website]"
+ I am a writer and a web developer interested in crafting the best digital experiences, with a knack for over-the-top customization and storytelling. "[For more information.][website]""
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
