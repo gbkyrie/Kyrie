@@ -4,6 +4,8 @@
 I am a writer and a web developer interested in crafting the best digital experiences, with a knack for over-the-top customization and storytelling.  
 [For more information.](http://gabrielkyrie.com)
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
